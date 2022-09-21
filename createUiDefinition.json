@@ -648,7 +648,7 @@
                       "minAddressCount": 1,
                       "requireContiguousAddresses": true
                     }
-                  },
+                  }
                  },
                 "visible": true
               },
